@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hey hi,
+
+i'm Gemma and i'm very uncreative :)
